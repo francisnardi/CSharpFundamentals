@@ -2,12 +2,11 @@
 {
     switch (z)
     {
-        case "-": return x - y;
-        case "+": return x + y;
-        case "*": return x * y;
-        case "/": return x / y;
-        case null: return 0.0;
-        default: return 0.0;
+        case "-": return (x - y);
+        case "+": return (x + y);
+        case "*": return (x * y);
+        case "/": return (x / y);
+        default: return (x + y);
     }
 }
 
@@ -20,11 +19,11 @@ static void Menu()
     double y = Convert.ToDouble(Console.ReadLine());
 
     Console.WriteLine("Operacao");
-    string? z = Console.ReadLine();
+    var temp = Console.ReadLine();
+    string z = temp is not null ? temp : "+";
 
     double resultado = Operacao(x, y, z);
     System.Console.WriteLine(resultado);
 }
 
 Menu();
-
