@@ -12,6 +12,8 @@
 
 static void Menu()
 {
+    Console.Clear();
+
     Console.WriteLine("Primeiro valor");
     double x = Convert.ToDouble(Console.ReadLine());
 
@@ -21,6 +23,9 @@ static void Menu()
     Console.WriteLine("Operacao");
     var temp = Console.ReadLine();
     string z = temp is not null ? temp : "+";
+
+    if (temp == "")
+        System.Environment.Exit(0);
 
     double resultado = Operacao(x, y, z);
     System.Console.WriteLine(resultado);
