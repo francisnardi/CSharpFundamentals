@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-static double Operacao(double x, double y, string z)
+﻿static double Operacao(double x, double y, string z)
 {
     switch (z)
     {
