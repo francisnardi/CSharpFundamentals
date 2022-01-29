@@ -13,3 +13,5 @@ C:\Users\fjnf\Desktop\CSharpFundamentals\TextEditor\obj\Debug\net6.0\TextEditor.
 C:\Users\fjnf\Desktop\CSharpFundamentals\TextEditor\obj\Debug\net6.0\ref\TextEditor.dll
 C:\Users\fjnf\Desktop\CSharpFundamentals\TextEditor\obj\Debug\net6.0\TextEditor.pdb
 C:\Users\fjnf\Desktop\CSharpFundamentals\TextEditor\obj\Debug\net6.0\TextEditor.genruntimeconfig.cache
+C:\Users\fjnf\Desktop\CSharpFundamentals\TextEditor\bin\Debug\net6.0\Flunt.dll
+C:\Users\fjnf\Desktop\CSharpFundamentals\TextEditor\obj\Debug\net6.0\TextEditor.csproj.CopyComplete

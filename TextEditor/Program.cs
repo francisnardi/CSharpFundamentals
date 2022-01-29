@@ -31,10 +31,13 @@
             Console.WriteLine("Qual caminho do arquivo?");
             var path = Console.ReadLine();
 
-            using (var file = new StreamReader(path))
+            if (path != null)
             {
-                string text = file.ReadToEnd();
-                Console.WriteLine(text);
+                using (var file = new StreamReader(path))
+                {
+                    string text = file.ReadToEnd();
+                    Console.WriteLine(text);
+                }
             }
 
             Console.WriteLine("");
@@ -65,11 +68,13 @@
             Console.WriteLine("Qual caminho para salvar o arquivo?");
             var path = Console.ReadLine();
 
-            using (var file = new StreamWriter(path))
+            if (path != null)
             {
-                file.Write(text);
+                using (var file = new StreamWriter(path))
+                {
+                    file.Write(text);
+                }
             }
-
             Console.WriteLine($"Arquivo {path} salvo com sucesso!");
             Console.ReadLine();
             Menu();

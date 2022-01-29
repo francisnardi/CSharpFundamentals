@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sqIeL7iaMeyP2MuDZgELN3BSC6U9Lmb2wA2XaYXfr0eYmutn6F+Zb/TKKWACcEIiiSQbhBuk5aA7/yg0woAu4A==",
+  "dgSpecHash": "H4XIF5UxPT9BoNgl53U0qQHxDIFxiXckePlre7ysz1xl187NFHs5YnW0Yh1H2xlVjPHs24ltsTUl4k08tN2QDg==",
   "success": true,
   "projectFilePath": "C:\\Users\\fjnf\\Desktop\\CSharpFundamentals\\TextEditor\\TextEditor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\fjnf\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
