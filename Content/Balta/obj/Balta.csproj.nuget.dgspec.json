@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/Balta/Balta.csproj": {}
+  },
+  "projects": {
+    "/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/Balta/Balta.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/Balta/Balta.csproj",
+        "projectName": "Balta",
+        "projectPath": "/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/Balta/Balta.csproj",
+        "packagesPath": "/home/nardi/.nuget/packages/",
+        "outputPath": "/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/Balta/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nardi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
