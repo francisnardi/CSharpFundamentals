@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Balta.ContentContext;
 
 namespace Balta
@@ -7,11 +8,8 @@ namespace Balta
     {
         static void Main(string[] args)
         {
-            var course = new Course();
-            course.Level = ContentContext.Enums.EContentLevel.Intermediary;
-            foreach (var item in course.Modules)
-            {
-            }
+            var articles = new List<Article>();
+            articles.Add(new Article("Artigo sobre OOP", "orientacao-objetos"));
         }
     }
 }
