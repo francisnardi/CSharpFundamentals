@@ -1,0 +1,16 @@
+/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/OOP/bin/Debug/net5.0/Balta
+/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/OOP/bin/Debug/net5.0/Balta.deps.json
+/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/OOP/bin/Debug/net5.0/Balta.runtimeconfig.json
+/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/OOP/bin/Debug/net5.0/Balta.runtimeconfig.dev.json
+/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/OOP/bin/Debug/net5.0/Balta.dll
+/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/OOP/bin/Debug/net5.0/ref/Balta.dll
+/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/OOP/bin/Debug/net5.0/Balta.pdb
+/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/OOP/obj/Debug/net5.0/Balta.csproj.AssemblyReference.cache
+/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/OOP/obj/Debug/net5.0/Balta.GeneratedMSBuildEditorConfig.editorconfig
+/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/OOP/obj/Debug/net5.0/Balta.AssemblyInfoInputs.cache
+/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/OOP/obj/Debug/net5.0/Balta.AssemblyInfo.cs
+/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/OOP/obj/Debug/net5.0/Balta.csproj.CoreCompileInputs.cache
+/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/OOP/obj/Debug/net5.0/Balta.dll
+/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/OOP/obj/Debug/net5.0/ref/Balta.dll
+/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/OOP/obj/Debug/net5.0/Balta.pdb
+/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/OOP/obj/Debug/net5.0/Balta.genruntimeconfig.cache
