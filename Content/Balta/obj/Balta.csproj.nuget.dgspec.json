@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/Balta/Balta.csproj": {}
+    "/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/Content/Balta/Balta.csproj": {}
   },
   "projects": {
-    "/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/Balta/Balta.csproj": {
+    "/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/Content/Balta/Balta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/Balta/Balta.csproj",
+        "projectUniqueName": "/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/Content/Balta/Balta.csproj",
         "projectName": "Balta",
-        "projectPath": "/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/Balta/Balta.csproj",
+        "projectPath": "/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/Content/Balta/Balta.csproj",
         "packagesPath": "/home/nardi/.nuget/packages/",
-        "outputPath": "/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/Balta/obj/",
+        "outputPath": "/media/nardi/1CE2B8E5E2B8C3F4/Users/fjnf/Desktop/CSharpFundamentals/Content/Balta/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nardi/.nuget/NuGet/NuGet.Config"

@@ -1,4 +1,5 @@
-﻿using Balta.ContentContext;
+﻿using System;
+using Balta.ContentContext;
 
 namespace Balta
 {
@@ -7,6 +8,9 @@ namespace Balta
         static void Main(string[] args)
         {
             var course = new Course();
+            foreach (var item in course.Modules)
+            {
+            }
         }
     }
 }
