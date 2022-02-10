@@ -49,16 +49,16 @@ namespace Balta
                     Console.WriteLine(item.Course?.Title);
                     Console.WriteLine(item.Course?.Level);
 
-                    // foreach (var notification in item.Notifications)
-                    // {
-                    //     Console.WriteLine($"{notification.Property} - {notification.Message}");
-                    // }
+                    foreach (var notification in item.Notifications)
+                    {
+                        Console.WriteLine($"{notification.Property} - {notification.Message}");
+                    }
                 }
 
-                // var payPalSubscription = new PayPalSubscription();
-                // var student = new Student();
+                var payPalSubscription = new PayPalSubscription();
+                var student = new Student();
 
-                // student.CreateSubscription(payPalSubscription);
+                student.CreateSubscription(payPalSubscription);
             }
         }
     }
